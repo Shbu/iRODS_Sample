@@ -74,7 +74,6 @@ public class Connection_iRODS {
 				outputFile.print(iterator.next());
 			}
 			
-
 			/*
 			 * File Operations*/
 
